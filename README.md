@@ -6,11 +6,12 @@ CSVファイルに変換するプログラム
 # 実行方法
 
 ## 準備
-resourceフォルダ直下に、変換したいhtmlファイルを"target.html"という名前で保存する。
+1. `./setup.sh`
+1. resourceディレクトリ直下に、変換したいhtmlファイルを"target.html"という名前で保存する。
 
 ## 実行
-./gradlew build
-./gradlew run
+1. `./gradlew build`
+1. `./gradlew run`
 
 ## テスト
-./gradlew clean test
+1. `./gradlew clean test`
