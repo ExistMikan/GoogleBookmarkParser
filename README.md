@@ -11,3 +11,6 @@ resourceフォルダ直下に、変換したいhtmlファイルを"target.html"�
 ## 実行
 ./gradlew build
 ./gradlew run
+
+## テスト
+./gradlew clean test
