@@ -1,5 +1,4 @@
 /build
 .gradle
-/gradle
 /resource/target.html
 /output/output.csv
